@@ -1,0 +1,22 @@
+{
+  "name": "is-kry",
+  "version": "1.0.0",
+  "description": "is the string KRY?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkryadr/is-kry-npm-package.git"
+  },
+  "keywords": [
+    "KRY"
+  ],
+  "author": "fkryadr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkryadr/is-kry-npm-package/issues"
+  },
+  "homepage": "https://github.com/fkryadr/is-kry-npm-package#readme"
+}
